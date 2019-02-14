@@ -1,1 +1,4 @@
 Chapter 1
+
+Chapter 2
+This is chapter two. It is not as fancy as chapter one. But it does the job.
